@@ -1,3 +1,3 @@
-# 2224802010279 - LeVanHoang
-## CÃu1: miniCheck_2224802010279 
-## CÃ¢u2 software_manage2224802010279 
+# 2224802010279 - LÃeVanHoang
+## Cau1: miniCheck_2224802010279 
+## Cau2 software_manage2224802010279 
